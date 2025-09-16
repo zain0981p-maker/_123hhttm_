@@ -5,15 +5,15 @@
         padding:0;
         color:#0f172a
     }
-    .container{
-        background:#a2f8ddc0;
+    header{
+        background:whitesmoke;
         color:#fff;
         padding:16px;
         display:flex;
         justify-content:space-between;
         align-items:center
     }
-    .container a{
+    header a{
         color:#fff;
         text-decoration:none;
         font-weight:600;
@@ -28,20 +28,20 @@
         color:#0b5ed7;
         margin-bottom:20px
     }
-    .card{
+    .news-card{
         background:#fff;
         padding:16px;
         margin-bottom:16px;
         border-radius:10px;
         box-shadow:0 4px 10px rgba(0,0,0,0.05)
     }
-    .card h2{
+    .news-card h2{
         margin:0 0 8px;
         font-size:20px;
         color:#0f172a
     }
 
-    .footer{
+    footer{
         background:#fff;
         padding:16px;
         text-align:center;
